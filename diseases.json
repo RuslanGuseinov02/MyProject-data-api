@@ -4,7 +4,7 @@
     "disease_name": "Yüksək Təzyiq",
     "symptoms": "Baş ağrısı, \nürək döyüntüsünün sürətlənməsi, \nBaş ağrısı, \nürək döyüntüsünün sürətlənməsi, \nBaş ağrısı, \nürək döyüntüsünün sürətlənməsi, \nBaş ağrısı, \nürək döyüntüsünün sürətlənməsi",
     "treatments": "Limonlu su içmək, \nağcaqayın çayı içmək, \nqarğıdalı yağı içmək, \nşəkərsiz qara çay içmək, \nfiziki aktivlik etmək, \nduz istehlakını azaltmaq, \nzeytun yağı istifadə etmək, \nnarıncı çiçəyi çayı içmək, \nLimonlu su içmək, \nağcaqayın çayı içmək, \nqarğıdalı yağı içmək, \nşəkərsiz qara çay içmək, \nfiziki aktivlik etmək, \nduz istehlakını azaltmaq, \nzeytun yağı istifadə etmək, \nnarıncı çiçəyi çayı içmək, \nLimonlu su içmək, \nağcaqayın çayı içmək, \nqarğıdalı yağı içmək, \nşəkərsiz qara çay içmək, \nfiziki aktivlik etmək, \nduz istehlakını azaltmaq, \nzeytun yağı istifadə etmək, \nnarıncı çiçəyi çayı içmək, \nLimonlu su içmək, \nağcaqayın çayı içmək, \nqarğıdalı yağı içmək, \nşəkərsiz qara çay içmək, \nfiziki aktivlik etmək, \nduz istehlakını azaltmaq, \nzeytun yağı istifadə etmək, \nnarıncı çiçəyi çayı içmək,\nLimonlu su içmək, \nağcaqayın çayı içmək, \nqarğıdalı yağı içmək, \nşəkərsiz qara çay içmək, \nfiziki aktivlik etmək, \nduz istehlakını azaltmaq, \nzeytun yağı istifadə etmək, \nnarıncı çiçəyi çayı içmək",
-    "image": "vector_yuksekteyziq",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/high_blood_pressure.png",
     "duration": "Həyat boyu izləmə"
   },
   {
@@ -12,7 +12,7 @@
     "disease_name": "Aşağı Təzyiq",
     "symptoms": "Başgicəllənmə, halsızlıq, diqqətini cəmləməkdə çətinlik, ürək döyüntüsündə zəiflik, üzün və dırnaqların solğunluğu.",
     "treatments": "Bol su içmək, duzlu qidalar yemək, qəhvə və ya çay içmək, tez-tez kiçik yeməklər yemək.",
-    "image": "vector_asagiteyziq",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/low_blood_pressure.png",
     "duration": "Bir neçə saatdan bir neçə günə qədər"
   },
   {
@@ -20,15 +20,15 @@
     "disease_name": "Yuxusuzluq",
     "symptoms": "Gecə boyunca yatmaqda çətinlik, narahatlıq",
     "treatments": "İlıq süd içmək, lavanda yağı istifadə etmək, çobanyastığı çayı içmək, fiziki aktivlik etmək, melatonin dəstəyi olan qidalar istifadə etmək, isti vanna qəbul etmək, stressdən uzaq durmaq, yaxşı yuxu vərdişləri yaratmaq",
-    "image": "vector_yuxusuzluq",
-    "duration": "Bəzi hallarda davamlı tətbiq"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/Insomnia.png",
+    "duration": "Bir neçə gündən bir neçə həftəyə qədər"
   },
   {
     "id": 4,
     "disease_name": "Ürəkbulanma",
     "symptoms": "Mədədə narahatlıq, təngnəfəslik, halsızlıq",
     "treatments": "Zəncəfil içmək, limonlu su içmək, nane çayı içmək, çobanyastığı çayı içmək, gündəlik yüngül yürüşlər etmək, su içmək, yavaş-yavaş yemək, günəş işığında vaxt keçirmək",
-    "image": "vector_urekbulanma",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/nausea.png",
     "duration": "Bir neçə saatdan bir neçə günə qədər davam edə bilər"
   },
   {
@@ -36,7 +36,7 @@
     "disease_name": "Qızdırma",
     "symptoms": "Yüksək temperatur, tərləmə, zəiflik, titrəmə",
     "treatments": "Buzlu kompres istifadə etmək, isti şorba və bitki çayları içmək, su içmək, tərləməyi təşviq etmək, meyvə və tərəvəzlər yemək, istirahət etmək, sərin vanna qəbul etmək, təzə havada olmaq",
-    "image": "vector_qizdirma",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/fever.png",
     "duration": "Bir neçə saatdan bir neçə günə qədər davam edə bilər"
   },
   {
@@ -44,7 +44,7 @@
     "disease_name": "Qəbizlik",
     "symptoms": "Çətin tualetə getmək, qarında ağrı, şişkinlik",
     "treatments": "Lifli qidalar yemək, bol su içmək, hərəkət etmək, təbii meyvə və tərəvəzlər istifadə etmək, zeytun yağı və limon suyu içmək, probiotiklər istifadə etmək, qaynar su içmək, bitki çayları içmək",
-    "image": "vector_qebizlik",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/constipation.png",
     "duration": "2-3 gün"
   },
   {
@@ -52,7 +52,7 @@
     "disease_name": "İshal",
     "symptoms": "Tez-tez tualetə getmək,qarında ağrı, halsızlıq, susuzluq",
     "treatments": "Bol su içmək, quru qidalar yemək, probiyotiklər istifadə etmək, zeytun yağı içmək, təbii bitki çayları içmək, kokos suyu içmək, yüngül yeməklər yemək, qara çörək və kətan toxumu istifadə etmək",
-    "image": "vector_ishal",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/diarrhea.png",
     "duration": "1-2 gün"
   },
   {
@@ -60,7 +60,7 @@
     "disease_name": "Burun Tıxanması",
     "symptoms": "Burun tıxanması, nəfəs almaqda çətinlik, baş ağrısı, səsin dəyişməsi, boğazda quruluq hissi",
     "treatments": "İlıq duzlu su ilə burun yuyulması, ilıq buxar, nazal sprey, bolluca maye qəbul etmək, başın yuxarıda saxlanması",
-    "image": "vector_buruntixanmasi",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/nasal_congestion.png",
     "duration": "1-2 gün"
   },
   {
@@ -68,15 +68,15 @@
     "disease_name": "Bədəndə Qaşınma",
     "symptoms": "Bədəndə qaşınma hissi, dəri üzərində qızartılar, döküntü və ya yaralar ola bilər",
     "treatments": "Dəriyə nəm krem və ya losyon çəkmək, soyuq kompres tətbiq etmək, təbii bitki yağları (məsələn: aloe vera) istifadə etmək",
-    "image": "vector_bedendeqasinma",
-    "duration": "Bir neçə saatdan bir neçə günə qədər"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/body_itching.png",
+    "duration": "Bir neçə gündən bir neçə həftəyə qədər"
   },
   {
     "id": 10,
     "disease_name": "Diş Ağrısı",
     "symptoms": "Dişin ətrafında ağrı, şişkinlik, isti və ya soyuq qidalara qarşı həssaslıq, çeynəmə zamanı ağrı.",
     "treatments": "Dişi sərin su ilə yaxalamaq, ağrıyan bölgəyə soyuq kompres tətbiq etmək, diş ağrısına qarşı ağrı kəsicilər (paratsetamol) istifadə etmək.",
-    "image": "vector_disagrisi",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/toothache.png",
     "duration": "Bir neçə saatdan bir neçə günə qədər"
   },
   {
@@ -84,15 +84,15 @@
     "disease_name": "Soyuqdəymə",
     "symptoms": "Burun tıxanması, öskürək, boğaz ağrısı, yüngül baş ağrısı, halsızlıq, vücudun istiliyinin artması.",
     "treatments": "Bol maye içmək, istirahət etmək, soyuq kompres tətbiq etmək, boğazı duzlu su ilə yaxalamaq, öskürək üçün təbii bal və limon qarışığı istifadə etmək.",
-    "image": "vector_soyuqdeyme",
-    "duration": "Bir neçə gündən bir həftəyə qədər"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/common_cold.png",
+    "duration": "Bir neçə gündən bir neçə həftəyə qədər"
   },
   {
     "id": 12,
     "disease_name": "Yaralar",
     "symptoms": "Dəri üzərində kəsiklər, yırtıqlar və qanama. Bəzi hallarda şişkinlik və ağrı da ola bilər.",
     "treatments": "Yaralı bölgəni təmiz su ilə yumaq, antiseptiklə təmizləmək, yara bandı ilə örtmək, lazımi hallarda tibbi yardım almaq.",
-    "image": "vector_yaralar",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/wounds.png",
     "duration": "Bir neçə gündən bir neçə həftəyə qədər"
   },
   {
@@ -100,7 +100,7 @@
     "disease_name": "Qaraciyər Ağrısı",
     "symptoms": "Sağ tərəfdəki qabırğa altı ağrı, bulanıq iştaha, ürəkbulanma, yorğunluq, sarılıq (deri və gözlərdə), sidik rənginin qaranlıq olması.",
     "treatments": "Ağrı kəsicilərdən (paratsetamol) istifadə etməmək, daha çox su içmək, sağlam qidalanmaq, alkoqol və siqaretdən uzaq durmaq, həkimə müraciət etmək.",
-    "image": "vector_qaraciyeragrisi",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/liver_pain.png",
     "duration": "Bir neçə saatdan bir neçə günə qədər"
   },
   {
@@ -108,7 +108,7 @@
     "disease_name": "Böyrək Ağrısı",
     "symptoms": "Ağrı, aşağı beldə, qarın bölgəsinin yanlarında və ya qasıq sahəsində, sidikdə qan, şişkinlik, narahatlıq, ürəkbulanma.",
     "treatments": "Bol su içmək, ağrılı bölgəyə isti kompres tətbiq etmək, duzlu və yağlı qidalardan çəkinmək, böyrək funksiyasını izləmək üçün həkimə müraciət etmək.",
-    "image": "vector_boyrekagrisi",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/kidney_pain.png",
     "duration": "Bir neçə saatdan bir neçə günə qədər"
   },
   {
@@ -116,7 +116,7 @@
     "disease_name": "Boğaz Şişkinliyi",
     "symptoms": "Boğazda ağrı, yutkunarkən çətinlik, boğazda yanma hissi, səsdə dəyişiklik, boğazda şişlik və ya qızartı.",
     "treatments": "Ilıq su ilə qarqara etmək, duzlu su ilə yaxalamaq, boğazı nəmləndirmək üçün bal və limonlu su içmək, isti içkilərdən çəkinmək.",
-    "image": "vector_bogazsiskinliyi",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/throat_swelling.png",
     "duration": "Bir neçə saatdan bir neçə günə qədər"
   },
   {
@@ -124,7 +124,7 @@
     "disease_name": "Qulaq Ağrısı",
     "symptoms": "Qulaqda ağrı, qulaqdan su və ya irin axması, eşitmə itməsi, qulaqda təzyiq hissi, baş dönməsi.",
     "treatments": "Qulağa isti kompres tətbiq etmək, ilıq su ilə qulaq təmizləmək, ağrı kəsicilərdən istifadə etmək (məsələn, paratsetamol), qulağı soyuqdan qorumaq.",
-    "image": "vector_qulaqagrisi",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/earache.png",
     "duration": "Bir neçə saatdan bir neçə günə qədər"
   },
   {
@@ -132,7 +132,7 @@
     "disease_name": "Üzdə Səpki",
     "symptoms": "Üzdə qızartı, bərəlmiş və ya qaşıntılı ləkələr, dəridə quruluq, narahatlıq hissi, bəzən şişkinlik.",
     "treatments": "İlıq su ilə üz yumaq, nemlendirici kremlərdən istifadə etmək, üzə soyuq kompres tətbiq etmək, qıcıqlandırıcı maddələrdən çəkinmək.",
-    "image": "vector_uzdesepkiler",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/facial_rash.png",
     "duration": "Bir neçə gündən bir neçə həftəyə qədər"
   },
   {
@@ -140,15 +140,15 @@
     "disease_name": "Sinə Ağrısı",
     "symptoms": "Sinədə sıxılma, ağrı və ya narahatlıq hissi, nəfəs almaqda çətinlik, ürək döyüntüsündə artım, bəzən əllərdə, boyunda və ya çənədə ağrı.",
     "treatments": "Dərin nəfəs almaq, istirahət etmək, ağrının şiddətini azaltmaq üçün istirahət və sərin mühitdə olmaq, ağrı kəsicilər (paratsetamol) istifadə etmək.",
-    "image": "vector_sineagrisi",
-    "duration": "Bir neçə dəqiqədən bir neçə saata qədər"
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/chest_pain.png",
+    "duration": "Bir neçə gündən bir neçə həftəyə qədər"
   },
   {
     "id": 19,
     "disease_name": "Baş Dönməsi",
     "symptoms": "Başın gicəllənməsi, yerə yaxın hiss etmə, balans itirilməsi, bulanıq görmə, qulaqlarda uğultu.",
     "treatments": "Yavaşca oturmaq və ya uzanmaq, bol maye qəbul etmək, qidalanmanı tənzimləmək, stresdən uzaq durmaq.",
-    "image": "vector_basdonmesi",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/dizziness.png",
     "duration": "Bir neçə dəqiqədən bir neçə saata qədər"
   },
   {
@@ -156,7 +156,7 @@
     "disease_name": "İştahsızlıq",
     "symptoms": "Yemək yemək istəməmək, daim yüngül mədə narahatlığı, yorğunluq, qida görə həssaslıq.",
     "treatments": "Kiçik və tez-tez yeməklər yemək, qidaların təravətli və dadlı olmasına diqqət etmək, su içmək, stressdən uzaq durmaq.",
-    "image": "vector_istahsizliq",
+    "image": "https://raw.githubusercontent.com/RuslanGuseinov02/MyProject-data-api/main/images/loss_of_appetite.png",
     "duration": "Bir neçə gündən bir neçə həftəyə qədər"
   }
 ]
